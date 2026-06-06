@@ -1,0 +1,6 @@
+[package]
+name = "ternary-reassembly"
+version = "0.1.0"
+edition = "2021"
+description = "Message reassembly for GPU cluster communication with ternary fragment status. Gap detection, partial reassembly, TTL expiry."
+license = "MIT"
